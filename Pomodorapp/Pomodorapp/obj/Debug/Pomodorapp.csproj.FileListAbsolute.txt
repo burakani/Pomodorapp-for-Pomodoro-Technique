@@ -1,0 +1,10 @@
+C:\Users\b.ani\Desktop\vsworks\Pomodorapp\Gradient\bin\Debug\Pomodorapp.exe.config
+C:\Users\b.ani\Desktop\vsworks\Pomodorapp\Gradient\bin\Debug\Pomodorapp.exe
+C:\Users\b.ani\Desktop\vsworks\Pomodorapp\Gradient\bin\Debug\Pomodorapp.pdb
+C:\Users\b.ani\Desktop\vsworks\Pomodorapp\Gradient\obj\Debug\Pomodorapp.csproj.AssemblyReference.cache
+C:\Users\b.ani\Desktop\vsworks\Pomodorapp\Gradient\obj\Debug\Pomodorapp.Form1.resources
+C:\Users\b.ani\Desktop\vsworks\Pomodorapp\Gradient\obj\Debug\Pomodorapp.Properties.Resources.resources
+C:\Users\b.ani\Desktop\vsworks\Pomodorapp\Gradient\obj\Debug\Pomodorapp.csproj.GenerateResource.cache
+C:\Users\b.ani\Desktop\vsworks\Pomodorapp\Gradient\obj\Debug\Pomodorapp.csproj.CoreCompileInputs.cache
+C:\Users\b.ani\Desktop\vsworks\Pomodorapp\Gradient\obj\Debug\Pomodorapp.exe
+C:\Users\b.ani\Desktop\vsworks\Pomodorapp\Gradient\obj\Debug\Pomodorapp.pdb

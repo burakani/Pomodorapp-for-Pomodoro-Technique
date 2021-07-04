@@ -1,0 +1,10 @@
+C:\Users\b.ani\Desktop\vsworks\Gradient\Gradient\bin\Debug\Gradient.exe.config
+C:\Users\b.ani\Desktop\vsworks\Gradient\Gradient\bin\Debug\Gradient.exe
+C:\Users\b.ani\Desktop\vsworks\Gradient\Gradient\bin\Debug\Gradient.pdb
+C:\Users\b.ani\Desktop\vsworks\Gradient\Gradient\obj\Debug\Gradient.Form1.resources
+C:\Users\b.ani\Desktop\vsworks\Gradient\Gradient\obj\Debug\Gradient.Properties.Resources.resources
+C:\Users\b.ani\Desktop\vsworks\Gradient\Gradient\obj\Debug\Gradient.csproj.GenerateResource.cache
+C:\Users\b.ani\Desktop\vsworks\Gradient\Gradient\obj\Debug\Gradient.csproj.CoreCompileInputs.cache
+C:\Users\b.ani\Desktop\vsworks\Gradient\Gradient\obj\Debug\Gradient.exe
+C:\Users\b.ani\Desktop\vsworks\Gradient\Gradient\obj\Debug\Gradient.pdb
+C:\Users\b.ani\Desktop\vsworks\Gradient\Gradient\obj\Debug\Gradient.csproj.AssemblyReference.cache
